@@ -54,7 +54,6 @@ It applies multiple machine learning models and uses **SHAP (SHapley Additive Ex
 #  File Structure
 
 Heart_Disease_AI/
-│
 ├── heart_dashboard.py # Streamlit dashboard app
 ├── heart_disease_model.pkl # Model training & evaluation script
 ├── heart_disease_uci.csv # Dataset
