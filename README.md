@@ -51,15 +51,6 @@ It applies multiple machine learning models and uses **SHAP (SHapley Additive Ex
  **Best Model:** Random Forest Classifier  
   Model & Scaler saved as `.pkl` files for deployment.
 
-#  File Structure
-
-Heart_Disease_AI/
-├── heart_dashboard.py # Streamlit dashboard app
-├── heart_disease_model.pkl # Model training & evaluation script
-├── heart_disease_uci.csv # Dataset
-├── scaler.pkl
-├── requirements.txt
-└── README.md
 
 
 If you like this project, give it a star!
